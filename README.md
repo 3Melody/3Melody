@@ -7,7 +7,7 @@ Designer / Front-End Developer / Editor
 I am a student at the University of Phayao. who is studying software engineering I am very interested in design and coding. In the future, I want to be a designer who can convey my inspirational work to others.
 
 * 🌍  I'm based in Phayao, Thailand
-* 🧠  I'm learning About The Database
+* 🧠  I'm Learning About The Database
 * ⚡  To be honest, I'm really crazy about Korean songs and Korean dramas.
 
 ### Skills
