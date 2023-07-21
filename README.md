@@ -29,6 +29,7 @@ I am a student at the University of Phayao. who is studying software engineering
 ### Extention For Works
 <p align="left">
 <img src="https://www.svgrepo.com/download/315258/notion.svg" width="36" height="36" alt="Notion" >
+<img src="https://upload.wikimedia.org/wikipedia/en/archive/8/8c/20210216184933%21Trello_logo.svg" width="36" height="36" alt="Trello">
 
 
 ### Socials
