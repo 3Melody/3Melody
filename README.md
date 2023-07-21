@@ -28,7 +28,7 @@ I am a student at the University of Phayao. who is studying software engineering
 
 ### Extention For Works
 <p align="left">
-<img style="border:2px solid #ffffff" src="https://assets.stickpng.com/images/606b40be0261580004244ccb.png" width="36" height="36" alt="Notion">
+<img style="border:2px solid #ffffff" src="https://www.svgrepo.com/download/315258/notion.svg" width="36" height="36" alt="Notion">
 
 
 ### Socials
